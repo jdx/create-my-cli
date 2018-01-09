@@ -1,0 +1,9 @@
+{
+  "name": "create-my-cli",
+  "version": "0.0.0",
+  "description": "create a new cli-engine cli",
+  "main": "lib/create.js",
+  "repository": "https://github.com/jdxcode/create-my-cli",
+  "author": "Jeff Dickey @jdxcode",
+  "license": "MIT"
+}
